@@ -1,8 +1,8 @@
-# Desarrollo
+# Desafío PL/SQL
 
 ## Introducción
 
-Este documento es una bitácora de mi viaje de aprendizaje en PL/SQL, el lenguaje procedural de Oracle para bases de datos. A través de una serie de ejercicios prácticos, he explorado y aplicado una amplia gama de conceptos, desde la sintaxis más básica hasta las características más avanzadas.
+Este documento es una desafío de aprendizaje en PL/SQL, el lenguaje procedural de Oracle para bases de datos. A través de una serie de ejercicios prácticos, he explorado y aplicado una amplia gama de conceptos, desde la sintaxis más básica hasta las características más avanzadas.
 
 Cada sección de este `README.md` corresponde a un tema específico, presentando el problema, el código de la solución y notas explicativas sobre las técnicas y comandos utilizados. El objetivo no es solo resolver los ejercicios propuestos, sino también construir una guía de referencia personal que demuestre la aplicación práctica de la teoría.
 
